@@ -1,5 +1,5 @@
 _docs/
-
+fastenv/
 *.bak
 .gitattributes
 .last_checked
